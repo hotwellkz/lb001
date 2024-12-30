@@ -1,5 +1,6 @@
 {
   "name": "bolt",
+  "@remix-run/node",
   "description": "An AI Agent",
   "private": true,
   "license": "MIT",
